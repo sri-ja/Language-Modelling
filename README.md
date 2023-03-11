@@ -3,7 +3,7 @@ Language models built for English, using statistical methods for calculating per
 
 ### How to run language_model.py
 
-``` py language_model.py <smoothing_technique> <path_to_corpus>```
+``` python3 language_model.py <smoothing_technique> <path_to_corpus>```
 
 You will be given a prompt to enter a sentence, and the model would output the probability of that sentence appearing in the corpus
 
